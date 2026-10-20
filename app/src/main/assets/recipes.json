@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Portakal-Kuşburnu Glaze'li Somon",
+    "category": "Ana Yemek",
+    "calories": 450,
+    "vegan": false,
+    "ingredients": ["Somon fileto", "Portakal suyu", "Kuşburnu marmelatı", "Zeytinyağı", "Tuz", "Karabiber"]
+  },
+  {
+    "name": "Mercimek Çorbası",
+    "category": "Çorba",
+    "calories": 180,
+    "vegan": true,
+    "ingredients": ["Kırmızı mercimek", "Soğan", "Havuç", "Tereyağı", "Tuz"]
+  }
+]
